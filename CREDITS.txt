@@ -1,0 +1,15 @@
+Ale Abbey - Arabic Localization (Kindiboy)
+
+Game
+  Ale Abbey © Hammer & Ravens, published by Shiro Unlimited. This is an unofficial, free fan
+  translation; it needs your own copy of the game and contains none of its code or assets.
+
+Fonts
+  SST Arabic © Monotype GmbH, used under licence. Shipped inside the mod for in-game text only;
+  it may not be used or distributed outside the mod.
+  Alyamama (installer window): Copyright 2025 The Alyamama Project Authors
+  (https://github.com/Mestaratype/AlYamama), SIL Open Font License 1.1 - see Alyamama-OFL.txt.
+
+Software
+  BepInEx 6 (https://github.com/BepInEx/BepInEx), LGPL-2.1, shipped unmodified as the mod loader.
+  HarmonyX and Il2CppInterop, used through BepInEx.
